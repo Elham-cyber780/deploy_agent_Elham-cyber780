@@ -26,7 +26,7 @@ The archive feature is triggered automatically when you press Ctrl+C during scri
 
 When Ctrl+C is pressed:
 1. The script catches the signal 
-2. Bundles the incomplete project into a file named attendance_tracker_{name}_archive.tar.gz
+2. Bundles the incomplete project into a file named attendance_tracker_{name}_archive
 3. Deletes the incomplete folder
 4. Exits cleanly 
 
