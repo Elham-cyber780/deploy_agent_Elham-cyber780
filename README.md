@@ -40,7 +40,7 @@ attendance_tracker_{name}/
 - reports/ 
 - reports.log
 **##Video Walkthrough**
-  [           ]
+  [ https://youtu.be/YNMnOvgj_fg ]
 ## Requirements
 - Ubuntu 20.04 or later
 - Python3 installed
