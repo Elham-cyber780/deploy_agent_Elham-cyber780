@@ -39,7 +39,8 @@ attendance_tracker_{name}/
 - config.json 
 - reports/ 
 - reports.log
-
+**##Video Walkthrough**
+  [           ]
 ## Requirements
 - Ubuntu 20.04 or later
 - Python3 installed
